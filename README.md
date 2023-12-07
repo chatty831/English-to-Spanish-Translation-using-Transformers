@@ -9,7 +9,8 @@ The dataset used is a paired corpus of **English-Spanish**, provided by [Anki](h
 The code starts by downloading a zip file containing the dataset for English to Spanish translation. The dataset is stored in the `spa-eng` folder and can be found in the file named `spa.txt`.
 
 Let's take a look at how the data looks like:
-![Sample Image](https://github.com/chatty831/English-to-Spanish-Translation-using-Transformers/blob/5f040ced1a12c661600497fcdc580a538168d1ea/Data_sample.png)
+![Sample Image]
+(https://github.com/chatty831/English-to-Spanish-Translation-using-Transformers/blob/5f040ced1a12c661600497fcdc580a538168d1ea/Data_sample.png)
 
 - Each line in the `spa.txt` file contains an English word/sentence and their corresponding Spanish translation.
 
