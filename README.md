@@ -1,4 +1,4 @@
-# English-to-Spanish-Translation-using-Transformers
+# Spanish-to-English-Translation-using-Transformers
 # Aim of the notebook.
 Attention-based sequence-to-sequence model that can effectively understand the context of Spanish sentences and translate them into clear and coherent English sentences.
 
