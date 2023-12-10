@@ -18,6 +18,9 @@ Let's take a look at how the data looks like:
 
 - Our first objective is to extract each line, and then separate the  English and Spanish words/sentences into two separate arrays. These will act as our input and target sentences for training the model
 
-# Model Checkpoint
-The trained model checkpoint can be found at the [drive](https://drive.google.com/file/d/1HZ6zTHWkAKe-yHjBBagmQECNXMF9A1OX/view?usp=sharing) link.
-Put the downloaded file in the `/training_checkpoints/` and you can use the checkpoint restore to restore the model again.
+# Model Weights
+The trained model weights can be found at the [drive]([https://drive.google.com/file/d/1HZ6zTHWkAKe-yHjBBagmQECNXMF9A1OX/view?usp=sharing](https://drive.google.com/drive/folders/100jjbPHgV7ve0ANHQK_9IXR6LCOo4XtE?usp=sharing)) link.
+Put the downloaded files in the `/var/` directory.
+
+# Prediction
+In order to get the predictions on your own from the model, you may use the `predict.py` file.
