@@ -19,7 +19,7 @@ Let's take a look at how the data looks like:
 - Our first objective is to extract each line, and then separate the  English and Spanish words/sentences into two separate arrays. These will act as our input and target sentences for training the model
 
 # Model Weights
-The trained model weights can be found at the [drive](https://drive.google.com/file/d/1HZ6zTHWkAKe-yHjBBagmQECNXMF9A1OX/view?usp=sharing) link.
+The trained model weights can be found at the [drive]([https://drive.google.com/file/d/1HZ6zTHWkAKe-yHjBBagmQECNXMF9A1OX/view?usp=sharing](https://drive.google.com/drive/folders/100jjbPHgV7ve0ANHQK_9IXR6LCOo4XtE?usp=sharing)) link.
 Put the downloaded files in the `/var/` directory.
 
 # Prediction
