@@ -154,4 +154,4 @@ def translate(sentence):
     print('Predicted Translation: ', result)
 
 
-translate(input('Spanish: '))
+translate(input('\n\nSpanish: '))
