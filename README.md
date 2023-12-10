@@ -23,4 +23,4 @@ The trained model weights can be found at the [drive]([https://drive.google.com/
 Put the downloaded files in the `/var/` directory.
 
 # Prediction
-In order to get the predictions on your own from the model, you may use the `predict.py` file.
+In order to get the predictions on your own from the model, you may use the `predict.py` file. You have to type the spanish sentence in the terminal after running the python file and it will print the output in the terminal.
