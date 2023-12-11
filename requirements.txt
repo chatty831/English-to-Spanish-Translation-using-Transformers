@@ -1,0 +1,8 @@
+re
+numpy
+pandas
+matplotlib
+tensorflow
+unicodedata
+scikit-learn
+pickle
